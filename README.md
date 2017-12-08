@@ -27,4 +27,6 @@ IBM® Cloud Private facilitates the development of applications in a shared, mul
 
 # Resources and community
 
-  
+Resource | Links
+---------| -----
+tutorial | - [k8s tutorial](https://kubernetes.io/docs/tutorials/)
