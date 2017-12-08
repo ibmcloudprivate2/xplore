@@ -9,10 +9,13 @@ To setup ICP CE, you will need the following prerequisite.
 - Git
 
 ## Virtualbox setup
+[Download and install Virtualbox](https://www.virtualbox.org/wiki/Downloads)
 
 ## Vagrant Setup
+[Download and install Vagrant](https://www.vagrantup.com/downloads.html)
 
 ## Git Setup
+[Download and install Git](https://git-scm.com/downloads)
 
 ## ICP CE Setup
 ```
