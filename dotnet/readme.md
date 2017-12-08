@@ -1,7 +1,7 @@
 
 # Setup .NET environment
 
-# ssh to ICP
+# ssh into ICP
 ```
 vagrant ssh
 ```
@@ -29,9 +29,6 @@ docker tag aspnetmvcapp mycluster.icp:8500/demo/aspnetmvcapp:1.0
 docker push mycluster.icp:8500/jaricdev/aspnetmvcapp:1.0
 ```
 
-You should see the image pushed into ICP private docker repo using Menu/Platform/Images
+You should see the image being pushed into ICP private docker repo using Menu/Platform/Images
 
-
-
-
-You are not all set and you can follows the instructions in [Build, Test and Deploy a docker ASPNET MVC Core application](https://github.com/ibmcloudprivate2/dotnet/tree/master/samples/sample_aspnetmvc)
+this tutorial is based on [Build, Test and Deploy a docker ASPNET MVC Core application](https://github.com/ibmcloudprivate2/dotnet/tree/master/samples/sample_aspnetmvc)
