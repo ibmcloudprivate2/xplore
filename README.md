@@ -1,6 +1,10 @@
 # xplore
 
-Exploring IBM Cloud Private Community Edition, the following is created and tested based on Mac environment.
+Resource for exploring IBM Cloud Private Community Edition, the following is created and tested based on Mac environment.
+
+[IBM® Cloud Private](https://www.ibm.com/support/knowledgecenter/en/SSBS6K_2.1.0/getting_started/overview.html) is an application platform for developing and managing on-premises, containerized applications.
+
+IBM® Cloud Private facilitates the development of applications in a shared, multitenant environment and supports both Linux™ 64-bit on x86 and Linux™ on Power® 64-bit LE architectures.
 
 ## my environment
 - Model Name:	MacBook Pro
@@ -20,3 +24,7 @@ Exploring IBM Cloud Private Community Edition, the following is created and test
   - Deploy the .NET core sample application
   - access the application
   - scale in and out the application
+
+# Resources and community
+
+  
