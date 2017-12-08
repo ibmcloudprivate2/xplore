@@ -27,12 +27,13 @@ From the command prompt, run
 ```
 vagrant up
 ```
-
 More information about the ICP setup above can be found [here](https://github.com/IBM/deploy-ibm-cloud-private/blob/master/docs/deploy-vagrant.md).
 
+
 ## Access the ICP Dashboard
+When the installation is completed, you can access the ICP Dashboard from a browser
 ```
-https://192.168.27.100:8443/console/
+[ICP Dashboard](https://192.168.27.100:8443/console/)
 ```
 
 ## create a namespace
@@ -41,6 +42,7 @@ From the Menu/Admin/Namespaces, create a namespace 'demo'
 ## Useful Vagrant commands
 
 ### ssh into master
+In order to continue the tutorial you will need to login to VM.
 ```
 vagrant ssh
 ```
